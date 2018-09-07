@@ -1,7 +1,11 @@
-{
-	font-family:sans-serif;
+h1{
+font-family: sans-serif;
+}
+li{
+font-family: monospace;
 }
 
-{
-font - family:monosparce;
+body{
+width: 50%;
+margin: auto;
 }
